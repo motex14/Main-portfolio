@@ -98,8 +98,9 @@ header .user img{
     width:17rem;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 1rem;
+    margin-bottom:1rem;
     border:.7rem solid var(--yellow);
+    margin-top: 100px;
 }
 
 header .user .name{
